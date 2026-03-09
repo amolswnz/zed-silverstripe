@@ -1,0 +1,15 @@
+id = "silverstripe"
+name = "SilverStripe"
+description = "SilverStripe template support with syntax highlighting, completions, and go-to-definition"
+version = "0.1.0"
+schema_version = 1
+authors = ["Adrian Humphreys"]
+repository = "https://github.com/AdrianHumphreys/zed-silverstripe"
+
+[grammars.silverstripe]
+repository = "https://github.com/AdrianHumphreys/tree-sitter-silverstripe"
+rev = "main"
+
+[language_servers.silverstripe-language-server]
+name = "SilverStripe Language Server"
+languages = ["SilverStripe"]

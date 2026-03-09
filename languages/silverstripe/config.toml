@@ -1,0 +1,4 @@
+name = "SilverStripe"
+grammar = "silverstripe"
+path_suffixes = ["ss"]
+block_comment = ["<%-- ", " --%>"]
