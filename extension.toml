@@ -8,7 +8,7 @@ repository = "https://github.com/nicolas-cusan/zed-silverstripe"
 
 [grammars.silverstripe]
 repository = "https://github.com/nicolas-cusan/tree-sitter-silverstripe"
-commit = "1ecbcc472d7fa33227253c15a4faf92758058845"
+commit = "da3990bc41b24119ae7bf7f3d01a425133a7d44a"
 
 [language_servers.silverstripe-language-server]
 name = "SilverStripe Language Server"
