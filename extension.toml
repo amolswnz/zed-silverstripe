@@ -3,12 +3,12 @@ name = "SilverStripe"
 description = "SilverStripe template support with syntax highlighting, completions, and go-to-definition"
 version = "0.1.0"
 schema_version = 1
-authors = ["Adrian Humphreys"]
-repository = "https://github.com/AdrianHumphreys/zed-silverstripe"
+authors = ["Nicolas Cusan"]
+repository = "https://github.com/nicolas-cusan/zed-silverstripe"
 
 [grammars.silverstripe]
 repository = "https://github.com/nicolas-cusan/tree-sitter-silverstripe"
-commit = "d154a54670d3d026f2515608883031abb5417fed"
+commit = "1ecbcc472d7fa33227253c15a4faf92758058845"
 
 [language_servers.silverstripe-language-server]
 name = "SilverStripe Language Server"
