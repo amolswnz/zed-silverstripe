@@ -7,8 +7,8 @@ authors = ["Adrian Humphreys"]
 repository = "https://github.com/AdrianHumphreys/zed-silverstripe"
 
 [grammars.silverstripe]
-repository = "https://github.com/AdrianHumphreys/tree-sitter-silverstripe"
-rev = "main"
+repository = "https://github.com/nicolas-cusan/tree-sitter-silverstripe"
+commit = "d154a54670d3d026f2515608883031abb5417fed"
 
 [language_servers.silverstripe-language-server]
 name = "SilverStripe Language Server"
